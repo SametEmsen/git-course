@@ -5,5 +5,7 @@ public class Demo {
         System.out.println("hello world");
         System.out.println("yeni yazı yazdım");
         System.out.println("şimdi first branchdeyim");
+        
+        System.out.println("pull yaptım github dan");
     }
 }
